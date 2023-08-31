@@ -1,4 +1,3 @@
-Id:7654324, Name:Student1, Password:p7654324#
 Id:7654325, Name:Student2, Password:p7654325#
 Id:7654326, Name:Student3, Password:p7654326#
 Id:7654327, Name:Student4, Password:p7654327#
