@@ -202,6 +202,6 @@ public class Event {
 			throw new PasswordValidationException("Last letter of the password should be #",
 					new RuntimeException());
 		}
-	}
+		}
 
 }
